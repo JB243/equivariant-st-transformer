@@ -10,6 +10,4 @@ Ben-Moshe, S., Veg, T., Manco, R., Dan, S., Papinutti, D., Lifshitz, A., et al.,
 
 ## Data source
 
-The data were obtained from Zenodo:
-
-- Zenodo record: https://zenodo.org/records/6035873
+The data were obtained from Zenodo: <https://zenodo.org/records/6035873>
