@@ -1,4 +1,4 @@
-# Dataset note: Liver Regeneration (Ben-Moshe et al., 2022)
+# Dataset note
 
 This project uses the publicly available liver regeneration spatial transcriptomics dataset from:
 
