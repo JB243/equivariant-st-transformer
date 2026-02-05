@@ -40,7 +40,7 @@ pip install lie-learn
 
 ## How to Use
 
-Please refer to `tutorial/st_liver_regeneration.ipynb ` This notebook contains: 
+Please refer to `data/DATASET_NOTE.md` for data and `tutorial/st_liver_regeneration.ipynb` for runnable code. This notebook contains: 
 
 * Data loading (Visium / Liver Regeneration)
 * Planar coordinate embedding: $(x, y, 0)$
