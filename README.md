@@ -43,13 +43,9 @@ pip install lie-learn
 Please refer to `tutorial/st_liver_regeneration.ipynb ` This notebook contains: 
 
 * Data loading (Visium / Liver Regeneration)
-
 * Planar coordinate embedding: $(x, y, 0)$
-
 * Model inference / embedding extraction
-
 * Symmetry breaking metrics: rotation sensitivity, hexatic order (ψ6)
-
 * Example plots / summaries
 
 ## Video lecture
