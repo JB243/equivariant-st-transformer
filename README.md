@@ -52,6 +52,6 @@ Please refer to `data/DATASET_NOTE.md` for data and `tutorial/st_liver_regenerat
 
 ## Video lecture
 
-A walkthrough of the motivation, method (planar SE(3) with (x,y,0)), and symmetry-breaking metrics (rot_sens, ψ6):
+A walkthrough of the motivation, method (planar SE(3) with $(x,y,0)$), and symmetry-breaking metrics (rot_sens, ψ6):
 
-- 🎥 YouTube: TBD
+- 🎥 [YouTube Link](https://www.youtube.com/watch?v=eHXcQGTBgtE)
