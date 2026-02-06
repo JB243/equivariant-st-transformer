@@ -2,7 +2,7 @@
 
 Equivariant (planar SE(3)) Transformer experiments for Spatial Transcriptomics (Visium), with symmetry breaking analysis on Liver Regeneration ST. We embed 2D coordinates as $(x, y, 0)$ and evaluate rotation sensitivity and hexatic order (ψ6) using learned embeddings.
 
-[![Demo Video](/thumbnail.jpg)](https://www.youtube.com/watch?v=eHXcQGTBgtE)
+[![Demo Video](https://raw.githubusercontent.com/JB243/equivariant-st-transformer/main/assets/thumbnail.jpg)](https://www.youtube.com/watch?v=eHXcQGTBgtE)
 
 ## Installation
 
