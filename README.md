@@ -54,4 +54,4 @@ Please refer to `data/DATASET_NOTE.md` for data and `tutorial/st_liver_regenerat
 
 A walkthrough of the motivation, method (planar SE(3) with $(x, y, 0)$ ), and symmetry-breaking metrics (rot_sens, ψ6):
 
-- 🎥 [YouTube Link](https://www.youtube.com/watch?v=eHXcQGTBgtE)
+- 🎥 [YouTube Clip: Towards Math Superintelligence: Group-theoretic Transformers](https://www.youtube.com/watch?v=eHXcQGTBgtE)
